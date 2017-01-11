@@ -2,8 +2,6 @@
 public class Primes {
 	
 	//Test github change from Windows
-
-	//Test github change from VM
 	
 		private boolean isPrime(int num) {
 			double sqr = Math.sqrt(num);
