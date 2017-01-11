@@ -1,6 +1,8 @@
 
 public class Primes {
 	
+	//Test github change from Windows
+	
 		private boolean isPrime(int num) {
 			double sqr = Math.sqrt(num);
 			int max = (int) sqr;
